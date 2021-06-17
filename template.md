@@ -79,6 +79,6 @@ Server Side encryption? Client Side?
 * SSL? 
 
 
-#### Additional notes/findigs
+#### Additional notes/findings
 
 
