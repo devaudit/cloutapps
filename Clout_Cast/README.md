@@ -18,8 +18,8 @@
 ---
 ##  1. <a name='TLDR'></a>TL;DR
 
-* SAFE: Y
-* LEGIT: Y
+This project **met** DevAudit's "Trust in Transparency" guidelines. (2020-06-18)
+
 * AUTH_TYPE: Identity Level 2
 
 ---
@@ -54,7 +54,9 @@ CloutCast.io allows users to promote their content, by paying others to engage w
     * Compiled Javascript (Svelte)
     * identity payload stored in **localStorage**
         * docs.bitclout.com recommended action: https://docs.bitclout.com/devs/identity-api#login
-
+* Backend
+    * .NET Core (C#)
+    * MSSQL database
 ##  5. <a name='Authentication'></a>Authentication
 Type - Identity
 

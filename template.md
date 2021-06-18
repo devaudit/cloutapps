@@ -5,11 +5,10 @@
 
 ---
 ## TL;DR
-:approve: :deny:
-* SAFE: Y/N
-* LEGIT: Y/N
-* AUTH_TYPE: ID/SSA
 
+This project (met/did not meet) DevAudit's "Trust in Transparency" guidelines.
+
+* AUTH_TYPE: ID/SSA
 ---
 
 
