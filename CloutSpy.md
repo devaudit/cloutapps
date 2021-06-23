@@ -28,7 +28,7 @@ This is a security bulletin about CloutSpy and BitWatcher. The following documen
 
 CloutSpy/BitWatcher a malicious desktop application that claims to show users various on-chain interactions between other bitclout users that one could specify. The application also **attempts to steal bitclout identity information** by scanning for browser data on the victim's hard disk, and sending them to a specific endpoint. The details of this mechanism are below.  
 
-**If you have used CloutSpy or Bitwatcher at any time in the past, and don't care about the technical details, please [CLICK HERE](https://#)**
+**If you have used CloutSpy or Bitwatcher at any time in the past, and don't care about the technical details, please [CLICK HERE](https://bitstoday.medium.com/special-edition-xx4-emergency-alert-f78fd54063ec)**
 
 ##  3. <a name='TLDR'></a>TL;DR
 
