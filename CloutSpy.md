@@ -7,6 +7,7 @@
 4. [Mechanism](#Mechanism)
 5. [Decompilation](#Decompilation)
 6. [IF YOU ARE AFFECTED](#IFYOUAREAFFECTED)
+6. [Known Affected/Compromised Accounts](#AFFECTEDACCOUNTS)
 
 ##  1. <a name='Contributors'></a>Contributors
 * [@dgsus](https://bitclout.com/u/dgsus)
@@ -84,3 +85,29 @@ If you have ever used CloutSpy/BitWatcher in the past, it is important to follow
 * Create a new BitClout Account
 * Transfer all of your holdings to the new account
 * Rename the previous account and reclaim your username on the new account.
+
+
+## 7. <a name="AFFECTEDACCOUTS"></a>Known Affected/Compromised Accounts
+
+The following accounts are known to have been compromised:
+
+* BC1YLfomjxzbu4eHr3pRWiK1gEX2j5obtxEEwUKRS1zgeNnJdQtt22m
+  https://bitclout.com/u/danielwilson
+* BC1YLfhcHSJzEAwVS8Msp2DBghkbnL81CmgmsPngaiyyP4JK93terBV
+  https://bitclout.com/u/klesh
+* BC1YLhVWfCQAiF8K1VqKSmjPETJ2Ptv4QKfv2VJqgS7pQS1i6aCcnxo
+  https://bitclout.com/u/syrtsov
+* BC1YLhkET4cWsU8MZy2j2xXhkKMfp9dveQ9NkSNQ7U2SVWJ9523278S
+  https://bitclout.com/u/bitcloutprice
+* BC1YLig7n2p8ZrAmQkSfC7Wri9hSmKuDVHAacHW1eKEg2q2J2iyBs7s
+  https://bitclout.com/u/Deaththirst
+* BC1YLgK3wLpTWdfXUU9ajKyE8n1f2Wbu6BxxzKRhZMxakQdAnc7hPbg
+  https://bitclout.com/u/Football_Clout
+* BC1YLhcezyV3Xy8gFbshoaAGuD3AFxuHKQo9LtZped5Ue8YNKKpMB69
+  https://bitclout.com/u/Affiliated_Clout
+* BC1YLh8AK9WcwmEfiqu4NcAMDWUXLf8wZokeMPmad1mnKrUdn9U7DoG
+  https://bitclout.com/u/BitCloutBrothers
+* BC1YLhuo698QYqMcAggQ7rV2hypKbxrLnYVmvAr2aKYNLdH4meDc2mG
+  https://bitclout.com/u/chalid
+* BC1YLiS23747tXn3gEKep8s6TBRmwVqte3bSi82CPuVnrsyf3JQN2iH
+  https://bitclout.com/u/adillitto
